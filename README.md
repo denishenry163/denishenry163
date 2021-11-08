@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @denishenry163
-- 👀 I’m interested in Applied Microeconometrics and soccer.
+- 👋 Hi, I’m Ding Liu
+- 👀 I’m interested in Applied Microeconometrics and soccer
 - 📫 You can reach me by email: dingl@smu.edu
 
 <!---
